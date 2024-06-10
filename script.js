@@ -24,5 +24,6 @@ buttons.forEach(function(butthon){
     {
         body.style.backgroundColor=e.target.id
     }
+
   })
 })
